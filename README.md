@@ -19,5 +19,8 @@ Part 2 - Static Fragments END
 Part 3 - Dynamic Fragments END
 <img width="1911" height="1030" alt="image" src="https://github.com/user-attachments/assets/0b4fc670-5e74-42ce-ba26-e0cd03b07610" />
 
+Part 4 - Jetpack Navigation END
+<img width="1906" height="1028" alt="image" src="https://github.com/user-attachments/assets/b0fed5b1-16a3-42f7-b0b6-f1bfea588d72" />
 
+Assignment
 
