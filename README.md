@@ -15,3 +15,9 @@ Part 2 - Static Fragments No. 8
 
 Part 2 - Static Fragments END
 <img width="1907" height="1022" alt="image" src="https://github.com/user-attachments/assets/a097c0d4-a10f-4836-84f6-757acaa31859" />
+
+Part 3 - Dynamic Fragments END
+<img width="1911" height="1030" alt="image" src="https://github.com/user-attachments/assets/0b4fc670-5e74-42ce-ba26-e0cd03b07610" />
+
+
+
