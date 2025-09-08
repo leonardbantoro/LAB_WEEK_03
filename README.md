@@ -23,4 +23,7 @@ Part 4 - Jetpack Navigation END
 <img width="1906" height="1028" alt="image" src="https://github.com/user-attachments/assets/b0fed5b1-16a3-42f7-b0b6-f1bfea588d72" />
 
 Assignment
+<img width="1904" height="1028" alt="image" src="https://github.com/user-attachments/assets/31ea73a0-efdc-4170-aeae-d6f16dae5597" />
+<img width="1908" height="1024" alt="image" src="https://github.com/user-attachments/assets/236eaf21-d163-4a10-93a5-11c180f8eac3" />
+
 
